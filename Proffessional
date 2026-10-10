@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"
+    <title>Web Programming Assessment</title>
+
+    
+  
+</head>
+<header>
+        <a href="index.html">Home   </a>
+        <a href="Personality.html">Personality   </a>
+        <a href="Portfolio.html">Personal Development   </a>
+        <a href="Proffessional.html">Proffessional   </a>
+    </nav>
+</header>
+
+<body>
+
+    <h1 style="font-size:60px;">
+        <span class="white-text">NATHAN<br></span>
+        <span class="green-text">MANNINGS</span>
+    </h1>
+
+    <hr class="custom-line">
+
+    <h1>876-204-5474</h1>
+    <h3>manningsnathan@gmail.com</h3>
+    <h3>Kingston,Jamaica</h3><br>
+           
+        
+
+
+
+    <p id="intro">Computer Science student with a strong interest in software development, app development, and graphic design. Skilled in combining technical and creative abilities to develop functional, visually engaging digital solutions. Eager to gain experience, expand technical skills, and contribute to innovative projects.</p>
+    <h1> Education</h1>
+   
+    <p>Glenmuir High School,</p>
+    <p>10 Glenmuir Road,</p>
+    <p>Maypen</p>
+    <p>September 2018-June 2025</p><br>
+    <p>University Of Technology</p>
+    <p>Bsc in Computing</p>
+    <p>September 2025- May 2029</p>
+    </p>
+    
+    <h1>Experience</h1>
+    <h2>Graphic Designer</h2>
+
+    <p></p>UTECH Student Union VP Public Relations (2026-27)</p>
+USU Editorial Committee(2026-27),
+Career & Placement Unit (2026-27))
+</p>
+
+   <p>Select Grocers Supermarket (2024-2025)</p>
+
+   <h1>Skills</h1>
+   <p>Graphic Design</p>
+   <p>Coding(Python,C,C++)</p>
+   <h3>Design Tools</h3>
+   <p>Adobe Photoshop</p>
+<img src="Photoshop-Logo-2015.jpg" alt="Adobe Photoshop" style="width: 100px; height: 100px;">
+
+<p>Adobe Illustrator</p>
+<img src="Illustrator-Icon-Vector.jpg" alt="Adobe Illustrator" style="width: 100px; height: 100px;">
+
+<h1>Projects    </h1>
+<p>Student Housing App (Pending)</p>
+
+
+<section id="cit-projects">
+    <h2>CIT2011 Lab & Project Deliverables</h2>
+    <p>Explore my practical lab assignments and tutorial deliverables for CIT2011:</p>
+    <ul>
+        <li>
+            <a href="https://github.com/illusive2k/CIT2011-Projects" target="_blank">
+                CIT2011 Main Repository
+            </a>
+        </li>
+    </ul>
+</section>
+
+
+
+</body>
+</html>

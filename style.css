@@ -1,0 +1,54 @@
+:root {
+    --primary-color: #c1f30f;
+    --secondary-color: #312f2f;
+    --text-color: #c1f30f;
+}
+#intro {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+@media (max-width: 600px) {
+    body { padding: 10px; }
+}
+header{
+    background-color: var(--primary-color);
+    padding: 20px;
+    color: var(--secondary-color);
+}
+
+a img {
+    border-radius: 8px;
+    width: 300px;
+    height: 150px;
+    object-fit: cover;
+}
+
+nav a{
+    color: var(--secondary-color);
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+body {
+    background-color: #312f2f;
+    color: var(--text-color);
+    font-family: Arial, sans-serif;
+}
+
+/* Classes moved outside of body for standard CSS compatibility */
+.white-text {
+    color: white;
+}
+
+.green-text {
+    color: #c1f30f;
+}
+
+h1 {
+    color: var(--primary-color);
+}
